@@ -56,9 +56,9 @@ i build things that actually work (most of the time). passionate about creating 
 
 ## 📊 github wrapped
 
-[![karol's github stats](https://github-readme-stats.vercel.app/api?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
+[![karol's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
+[![top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
 
 ## 💬 let's connect
 
