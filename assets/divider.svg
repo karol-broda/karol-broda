@@ -1,0 +1,14 @@
+<svg width="400" height="4" viewBox="0 0 400 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frappe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#303446;stop-opacity:0"/>
+      <stop offset="15%" style="stop-color:#8caaee"/>
+      <stop offset="35%" style="stop-color:#ca9ee6"/>
+      <stop offset="50%" style="stop-color:#f4b8e4"/>
+      <stop offset="65%" style="stop-color:#ca9ee6"/>
+      <stop offset="85%" style="stop-color:#8caaee"/>
+      <stop offset="100%" style="stop-color:#303446;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="4" rx="2" fill="url(#frappe)"/>
+</svg>

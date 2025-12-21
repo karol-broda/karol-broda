@@ -1,72 +1,134 @@
-# hey there, i'm karol 👋
+```
+        ∧＿∧
+      （｡･ω･｡)つ━☆・*。
+      ⊂　 ノ 　　　・゜+.
+       しーＪ　　　°。+ *´¨)
+                 .· ´¸.·*´¨) ¸.·*¨)
+                  (¸.·´ (¸.·'* hi, i'm karol
+```
 
-![profile views](https://komarev.com/ghpvc/?username=karol-broda&color=blueviolet)
+<br>
 
-i build things that actually work (most of the time). passionate about creating simple, reliable tools that solve real problems without the unnecessary complexity.
+somewhere between poland and munich, i write code that solves problems without making new ones. systems programming, network stuff, tools that feel like they belong. nothing revolutionary, just honest work.
 
-## 🚀 what i'm building
+i believe in boring technology. the kind that lets you sleep at night. postgres over the hot new database. a framework that's been around long enough to have real answers on stackoverflow. simplicity isn't laziness, it's respect for future you.
 
-- [**funnel**](https://github.com/karol-broda/funnel): a pretty fast tunnel service written in go - because sometimes you need to expose localhost to the world
-- [**catalyst**](https://github.com/karol-broda/catalyst): a typesafe python sql builder - making database queries less painful, one type at a time (even in python)
-- [**zubr**](https://github.com/karol-broda/zubr): a desktop application for managing and working with postgres databases - because somtimes you dont want to put in 15 commmands from muscle memory to inspect a database
+<br>
 
-## 🛠 my toolbox
+<img src="./assets/terminal.svg" alt="terminal" width="420"/>
 
-**systems & backend**
-- c, go, rust
-- python + fastapi
-- node.js (and recently some bun) + fastify, hono
-- postgresql + drizzle
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="600"/>
+</p>
 
-**frontend & mobile**
-- javascript/typescript
-- react + next.js
-- react native/expo but without eas
-- tailwind css
+### things i've made
 
-**tools**
-- docker
-- kubernetes (but only when it is really needed, not when a product has only 100 users)
-- gh actions
+**[funnel](https://github.com/karol-broda/funnel)**
+tunneling service in go. expose localhost to the world without the ceremony.
 
-## 🎯 development philosophy
+**[snitch](https://github.com/karol-broda/snitch)**
+a friendlier ss/netstat. inspect network connections with a clean tui.
 
-- start simple, stay simple
-- solve real problems, not imaginary ones
-- boring technology that works > shiny new framework
-- if it takes more than 5 minutes to explain, it's probably too complex
+**[catalyst](https://github.com/karol-broda/catalyst)**
+typesafe sql in python. databases shouldn't feel like guesswork.
 
-## 🎨 when i'm not coding
+**[zubr](https://github.com/karol-broda/zubr)**
+postgres gui for when you're tired of typing the same 15 commands just to peek at your data.
 
-- probably reading about why someone rewrote their entire stack in rust
-- wondering if that new database really is "10x faster"
-- actually touching grass (revolutionary concept, i know)
+**[systems work](https://karolbroda.com/projects/systems)**
+low-level C stuff. databases with b+ trees, dns servers, http servers. built to understand how things actually work.
 
-## 🤝 open to
+<br>
 
-- building stuff that people actually use
-- debating whether that abstraction is worth the complexity
-- contributing to projects that solve problems i actually have
-- 
-## 🌱 currently exploring
+```
+   /\___/\
+  (  ˘ω˘  )  zzz
+   )     (
+```
 
-- the art of building features that users actually want
-- why every "revolutionary" framework solves the same 5 problems
-- the eternal quest for the perfect development environment
+<p align="center">
+  <img src="./assets/divider-dots.svg" alt="divider" width="200"/>
+</p>
 
-## 📊 github wrapped
+### how i think about code
 
-[![karol's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
+start simple. stay simple. if it takes more than 5 minutes to explain, it's probably too complex. solve problems you actually have, not problems you might have someday. kubernetes is great when you have kubernetes-sized problems.
 
-[![top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
+most of the time, a framework and postgres is enough. really.
 
-## 💬 let's connect
+<br>
 
-whether you want to discuss code, collaborate on projects, or just say hi:
+```
+   ╱|、
+  (˚ˎ。7  
+   |、˜〵  
+   じしˍ,)ノ
+```
 
-- 💼 [linkedin](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
-- 📧 [me@karolbroda.com](mailto:me@karolbroda.com)
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="600"/>
+</p>
 
----
+### elsewhere
 
-*ps: if you made it this far, you deserve a cookie 🍪*
+when i'm not in the terminal, i'm probably reading another blog post about why someone rewrote their whole stack in rust. or i'm outside, touching grass (revolutionary concept, i know). sometimes i write about [keeping things simple](https://karolbroda.com/blog).
+
+<br>
+
+```
+    ⋆ ˚｡⋆୨୧˚  ˚୨୧⋆｡˚ ⋆
+    
+        /\_/\  
+       ( o.o ) 
+        > ^ <
+    
+    ⋆ ˚｡⋆୨୧˚  ˚୨୧⋆｡˚ ⋆
+```
+
+<p align="center">
+  <img src="./assets/divider-dots.svg" alt="divider" width="200"/>
+</p>
+
+### probably not interested in
+
+blockchain anything. adtech. "ai-powered" crud apps. your next uber-for-X. anything that requires me to say "synergy" with a straight face.
+
+if your pitch deck has more buzzwords than technical specs, we're probably not a match. no hard feelings.
+
+<br>
+
+```
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+```
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" width="600"/>
+</p>
+
+```
+    ∧,,,∧
+   ( ̳• · • ̳)
+   /    づ♡ say hi:
+
+   ✦ me@karolbroda.com
+   ✦ karolbroda.com
+```
+
+<br>
+
+```
+    |\      _,,,---,,_
+    /,`.-'`'    -.  ;-;;,_
+   |,4-  ) )-,_..;\ (  `'-'
+  '---''(_/--'  `-'\_)
+```
+
+<br>
+
+<sub>˚ ᶠᵉˡⁱˢ ᶜᵃᵗᵘˢ ˚</sub>
