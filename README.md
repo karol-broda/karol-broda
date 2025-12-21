@@ -78,9 +78,9 @@ when i'm not in the terminal, i'm probably reading another blog post about why s
 ```
     ⋆ ˚｡⋆୨୧˚  ˚୨୧⋆｡˚ ⋆
     
-        /\_/\  
-       ( o.o ) 
-        > ^ <
+          /\_/\  
+         ( o.o ) 
+          > ^ <
     
     ⋆ ˚｡⋆୨୧˚  ˚୨୧⋆｡˚ ⋆
 ```
