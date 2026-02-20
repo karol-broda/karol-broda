@@ -13,6 +13,8 @@ somewhere between poland and munich, i write code that solves problems without m
 
 i believe in boring technology. the kind that lets you sleep at night. postgres over the hot new database. a framework that's been around long enough to have real answers on stackoverflow. simplicity isn't laziness, it's respect for future you.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51IVRWP)
+
 <br>
 
 <img src="./assets/terminal.svg" alt="terminal" width="420"/>
